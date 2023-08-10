@@ -40,7 +40,7 @@
 
 ## O que aprendi
 
-Nesse projeto envolvendo HTML,CSS e JS, aprendi conceitos importantes: desenvolvimento frontend e backend; integração com API externa fazendo solicitações HTTP e recebendo dados JSON; função assíncrona; manipulação de elementos com o DOM; fet API; conceitos de estilização e responsividade. Uma novidade nos meus projetos foi usar o conceito de "Mobile First" neste projeto.
+Nesse projeto envolvendo HTML,CSS e JS, aprendi conceitos importantes: desenvolvimento frontend e backend; integração com API externa fazendo solicitações HTTP e recebendo dados JSON; função assíncrona; manipulação de elementos com o DOM; fet API; conceitos de estilização e responsividade. Uma novidade nos meus projetos foi o uso do conceito de "Mobile First".
 
 ## Trechos de códigos
 
