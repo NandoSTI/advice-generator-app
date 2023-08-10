@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="src/images/favicon-32x32.png" type="image/x-icon" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@800&family=Open+Sans:wght@400;700&family=Outfit:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="src/css/reset.css">
+    <link rel="stylesheet" href="src/css/variables.css">
+    <link rel="stylesheet" href="src/css/style.css">
+    <title>Advice Generator App | Frontend Mentor</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="title">Advice #</h1>
+      <p class="text"></p>
+      <picture>
+        <source
+          media="(min-width: 768px)"
+          srcset="src/images/pattern-divider-desktop.svg"
+        />
+        <img src="src/images/pattern-divider-mobile.svg" alt="divider" />
+      </picture>
+      <div>
+        <button onclick="fetchAdvice()">
+          <img src="src/images/icon-dice.svg" alt="" />
+        </button>
+      </div>
+    </div>
+    <script src="src/js/index.js"></script>
+  </body>
+</html>
