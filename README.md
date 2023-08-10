@@ -28,7 +28,7 @@
 
 ### Links
 
-- Site URL: https://nandosti.github.io/landing-page-huddle/
+- Site URL: https://nandosti.github.io/advice-generator-app/
 
 ### Construído com
 
